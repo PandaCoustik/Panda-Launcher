@@ -4,7 +4,7 @@ Application Windows légère pour organiser et lancer jusqu’à cinq listes de 
 
 ## Télécharger
 
-La release de l’exécutable sera publiée séparément. Pour le moment, compilez le projet avec les instructions ci-dessous. Gardez l’exécutable à un emplacement stable : vos raccourcis pointent vers ce fichier.
+Téléchargez **[Panda.Launcher.exe](https://github.com/PandaCoustik/Panda-Launcher/releases/latest/download/Panda.Launcher.exe)** depuis la [dernière release](https://github.com/PandaCoustik/Panda-Launcher/releases/latest). Aucun installateur requis. Gardez l’exécutable à un emplacement stable : vos raccourcis pointent vers ce fichier.
 
 ## Utilisation
 
@@ -44,4 +44,5 @@ Pour régénérer les icônes à partir des PNG fournis :
 ```
 
 Le projet contient le code WinForms, les ressources utilisées et les tests de la version actuelle.
+
 
