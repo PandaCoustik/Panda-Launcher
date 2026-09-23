@@ -1,0 +1,8 @@
+/dist/
+/tests/*-runs/
+/tests/runs/
+/tests/*.exe
+/tests/*.png
+*.tmp
+*.bak
+*.log
